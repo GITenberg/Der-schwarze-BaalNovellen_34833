@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37262'
     url: http://www.gutenberg.org/2009/agents/37262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34833#Der-schwarze-BaalNovellen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-01-03'
 gutenberg_type: Text
