@@ -1,0 +1,30 @@
+_repo: Der-schwarze-BaalNovellen_34833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zech, Paul
+    birthdate: 1881
+    deathdate: 1946
+    gutenberg_agent_id: '37262'
+    url: http://www.gutenberg.org/2009/agents/37262
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34833'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+tableOfContents: Die Birke -- Der schwarze Baal -- Das Pferdejuppchen -- Die Gruft
+  von Valero -- Das Vorgesicht -- Nervil Munta -- Der Anarchist.
+title: 'Der schwarze Baal: Novellen'
+url: http://www.gutenberg.org/ebooks/34833
